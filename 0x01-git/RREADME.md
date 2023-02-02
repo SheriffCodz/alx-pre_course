@@ -1,8 +1,4 @@
-On branch master
-Your branch is up to date with 'origin/master'.
-
-Untracked files:
-  (use "git add <file>..." to include in what will be committed)
-	./
-
-nothing added to commit but untracked files present (use "git add" to track)
+[master 7c09d69] My first repository
+ 2 files changed, 9 insertions(+)
+ create mode 100644 0x01-git/README.md
+ create mode 100644 0x01-git/RREADME.md
